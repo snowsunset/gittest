@@ -1,3 +1,4 @@
 test1
 test2
 git commit -am "Added another fruit"
+git gui test1
